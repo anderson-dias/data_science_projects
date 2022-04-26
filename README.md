@@ -1,36 +1,26 @@
-[![author](https://img.shields.io/badge/author-andersondias-red.svg)](https://www.linkedin.com/in/andersondondias) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-andiasrj-green.svg)](https://www.linkedin.com/in/andersondondias/?locale=en_US) [![](https://img.shields.io/badge/python-3.7+-red.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="databanner-2022.png" >
 </p>
 
 # Anderson Dias
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Oceanographer* at Brazillian Navy Hidrographic Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+As an Oceanographer and Data Scientist I combine analytical skills, ability to work in team environments and attention to details. Experienced in the coordination and execution of environmental projects. Performs environmental data analysis, report writing and environmental studies in the areas of water quality, sediment quality, physical oceanography, biota (plankton and benthos), environmental impacts assessment, green house gases emissions inventory (IPCC and GHG Protocol) and hydrographic surveys tidal analysis.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+My credentials include a Master's in Environmental Planning from the Federal University of Rio de Janeiro (UFRJ), an institution of higher education and advanced research rated as one of the top and most prestigious universities in Brazil.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/andersondondias/?locale=en_US)
+* [Medium](https://medium.com/@anderson.do.n.dias)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* **Análise do Airbnb da cidade de Florianópolis:** (em desenvolvimento).
 
 ---
-
-
-
